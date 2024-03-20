@@ -1,2 +1,2 @@
 # let-s-start
-"hello shital"
+"hello"
